@@ -1,0 +1,17 @@
+[
+    {
+        "identificacion": "001",
+        "nombre": "Karla",
+        "contrasena": "1234"
+    },
+    {
+        "identificacion": "002",
+        "nombre": "Pedro",
+        "contrasena": "abcd"
+    },
+    {
+        "identificacion": "003",
+        "nombre": "luis",
+        "contrasena": "jota20"
+    }
+]
