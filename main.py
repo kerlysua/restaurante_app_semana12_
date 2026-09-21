@@ -124,4 +124,4 @@ while True:
 
     else:
 
-        print("Opción inválida")
+        print("Opción inválida")  #fin
